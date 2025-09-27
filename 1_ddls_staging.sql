@@ -1,4 +1,4 @@
---weekend 47 query
+--weekend 47 query modified
 create database stgdb;
 CREATE TABLE stgdb.stg_accounts (
     AccountID VARCHAR(50),
